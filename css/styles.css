@@ -335,6 +335,7 @@ input[type="email"]{
 }
 
 /* footer design */
+
 .footer{
     justify-content: space-around;
     align-items: center;
@@ -354,7 +355,9 @@ input[type="email"]{
     align-items: center;
     margin-top: -180px;
 }
+
 /* responsive for small device */
+
 @media screen and (max-width:576px){
     
     
