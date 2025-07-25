@@ -164,6 +164,7 @@ body{
 }
 
 /* plants lover design */
+
 .plants-container{
     gap: 120px;
     justify-content: flex-start;
@@ -206,6 +207,7 @@ body{
 }
 
 /* latest deal design */
+
 .latest-deal{
     text-align: center;
     margin-top: 100px;
